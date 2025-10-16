@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Erysson Barros
 
-Sou engenheiro de software com foco em soluções full stack e inteligência artificial. Atualmente atuo na **ESPIRAL Tecnologia** como **Engenheiro de Software | Full Stack | Líder Técnico**, contribuindo com projetos inovadores na área de IA e desenvolvimento web.
+Sou engenheiro de software com foco em soluções full stack e inteligência artificial. Atualmente atuo na **Kripto Pay** como **Engenheiro de Software | Full Stack | Líder Técnico**, contribuindo com projetos inovadores na área de IA e desenvolvimento web.
 
 Também sou **CEO e fundador** da [Kripto Pay](https://www.kriptopay.com) e da [Ec7 Tracker](https://www.ec7tracker.com), duas empresas que unem tecnologia, inovação e impacto social.
 
