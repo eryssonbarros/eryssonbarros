@@ -20,7 +20,7 @@ Fui reconhecido com o **Prêmio Inova Servidor do Estado do Pará de 2024**, uma
 
 ## 💼 Projetos em Destaque
 
-- **Mentoria e liderança técnica** em projetos da ESPIRAL Tecnologia com foco em IA e automação.
+- **Mentoria e liderança técnica** em projetos da **Kripto Pay** com foco em IA e automação.
 - [**Kripto Pay**](https://www.kriptopayment.io): Plataforma de pagamentos digitais com integração a criptomoedas e chat bot.
 - [**Ec7 Tracker**](https://www.ec7.io): Sistema de rastreamento veicular inteligente com IoT e monitoramento em tempo real.
 
