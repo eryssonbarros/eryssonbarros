@@ -1,40 +1,38 @@
 # 👋 Olá! Eu sou Erysson Barros
 
-Sou engenheiro de software com foco em soluções full stack e inteligência artificial. Atualmente atuo na **Kripto Pay** como **Engenheiro de Software | Full Stack | Líder Técnico**, contribuindo com projetos inovadores na área de IA e desenvolvimento web.
+**Engenheiro de Software Full Stack | IA Generativa (LLMs, RAG, Chatbots) | React, React Native & Node.js**
+📍 Belém, Pará, Brasil · Aberto a oportunidades remotas e híbridas
 
-Também sou **CEO e fundador** da [Kripto Pay](https://www.kriptopay.com) e da [Ec7 Tracker](https://www.ec7tracker.com), duas empresas que unem tecnologia, inovação e impacto social.
+Transformo processos complexos em produtos digitais escaláveis e centrados no usuário. Desenvolvo plataformas web e mobile para Fintech, Marketplace/E-commerce, Rastreamento e EAD. Também implemento chatbots e agentes de IA com LLMs, RAG e bancos vetoriais, com arquitetura modular e pipelines de CI/CD automatizados.
 
-Fui reconhecido com o **Prêmio Inova Servidor do Estado do Pará de 2024**, uma conquista que reforça meu compromisso com a excelência e inovação no serviço público por meio da tecnologia.
+Atualmente sou Analista Fazendário de TIC na **Sefa Pará**, onde desenvolvo e modernizo soluções digitais para a administração tributária e financeira do Estado.
 
----
+## 🛠 Stack
 
-## 🚀 Minhas Especialidades
+- **Front-end / Mobile:** React, Next.js, React Native, TypeScript, Ant Design
+- **Back-end:** Node.js, NestJS, APIs REST, microsserviços
+- **Dados:** MongoDB, Oracle Database
+- **IA Generativa:** LLMs (Gemini), RAG, Pinecone, ChromaDB, chatbots e agentes de IA, n8n
+- **DevOps / Qualidade:** CI/CD (GitLab), Git, SonarQube
 
-- **Engenharia de Software** aplicada ao desenvolvimento de soluções escaláveis e eficientes  
-- **Inteligência Artificial** integrada a sistemas inteligentes e automação de processos  
-- **Desenvolvimento Full Stack** (Frontend, Backend e Mobile) com foco em tecnologias como **React**, **Node.js**, **Moogodb** entre outras  
-- **Arquitetura de Sistemas** e **Mentoria Técnica** para equipes de desenvolvimento  
-- **Startups, Inovação e Liderança Técnica** em projetos de tecnologia e transformação digital
+## 💼 Experiência recente
 
----
+- **Sefa Pará** (2026–atual): interfaces em Next.js/React/TypeScript, microsserviços em NestJS, dashboards de auditoria contábil (Siconfi, RREO, SIAFE) e pipelines de CI/CD no GitLab.
+- **Aprovaí Educação** (2026–atual): desenvolvimento full stack de plataforma EAD com Tutor IA, leitor de PDF e cronograma do aluno.
+- **AmazEats** (2026): marketplace completo com PDV, painel e Kanban, que reduziu em 30% o tempo de gestão de pedidos.
+- **Kripto Pay** (2025–2026): soluções e infraestrutura financeira, com pagamentos digitais, criptomoedas e chatbot.
+- **Ec7 Tracker** (2022–2026): rastreamento veicular com monitoramento em tempo real.
+- **Fundação Santa Casa do Pará** (2020–2025): sistemas web e mobile integrados ao sistema hospitalar (higienização de leitos, passagem de plantão, automação com n8n e chatbot de IA).
 
-## 💼 Projetos em Destaque
+## 🏆 Reconhecimento
 
-- **Mentoria e liderança técnica** em projetos da **Kripto Pay** com foco em IA e automação.
-- [**Kripto Pay**](https://www.kriptopayment.io): Plataforma de pagamentos digitais com integração a criptomoedas e chat bot.
-- [**Ec7 Tracker**](https://www.ec7.io): Sistema de rastreamento veicular inteligente com IoT e monitoramento em tempo real.
+🏅 **5º lugar em duas categorias (Processos e Serviços)** em premiação de inovação em saúde, com um app de estoque para dispensação de materiais e medicamentos e uma tecnologia educativa com IA para avaliação de lesão por pressão.
 
----
+## 🔭 Fora do código
 
-## 🏆 Prêmios e Reconhecimentos
+Sou apaixonado por astronomia e mantenho a newsletter **Singularity Zone** (+500 assinantes).
 
-- 🏅 **Prêmio Inova Servidor do Estado do Pará de 2024** — Reconhecimento por projeto inovador no setor público, com dois aplicativos desenvolvidos para a área da saúde, conquistando o 5º lugar nas categorias **Processos e Serviços**.
+## 📫 Contato
 
----
-
-## 📫 Como me encontrar
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/eryssonbarros/)
-- 📧 eryssonbarros@gmail.com
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eryssonbarros-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eryssonbarros/)
+[![Email](https://img.shields.io/badge/Email-eryssonbarros@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:eryssonbarros@gmail.com)
